@@ -89,4 +89,4 @@ mobile/
 
 ## Video Demo
 
-[Link to video recording]
+Link to video recording: https://drive.google.com/file/d/1hMfmFNQ2p9g27O4wn4uCeXxl4i3dW2qT/view?usp=drive_link
