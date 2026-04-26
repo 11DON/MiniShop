@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MiniShop",
+    "slug": "mini-shop",
+    "version": "1.0.0",
+    "scheme": "minishop",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6C63FF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.minishop.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#6C63FF"
+      },
+      "package": "com.minishop.app"
+    },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
