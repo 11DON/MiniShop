@@ -87,6 +87,9 @@ This creates 3 categories and 10 products.
 
 ## Scripts
 
+Link to video recording: https://drive.google.com/file/d/1hMfmFNQ2p9g27O4wn4uCeXxl4i3dW2qT/view?usp=drive_link
+
+
 ```bash
 npm run dev      # development with hot reload
 npm run build    # compile TypeScript
